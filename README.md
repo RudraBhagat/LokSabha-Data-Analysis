@@ -58,10 +58,11 @@ This project turns a massive dataset into **easy-to-understand visual insights**
 ---
 
 > **Developed by:**
+> 
 > 🧑‍💻 Rudra Prashant Bhagat
-
+> 
 > 🏫 Deogiri Institute of Engineering and Management Studies
-
+> 
 > 📚 Department: CSE (AIML)
 
 ---
