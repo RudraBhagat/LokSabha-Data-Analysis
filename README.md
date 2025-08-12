@@ -1,5 +1,4 @@
 # 📊 Lok Sabha 2024 – Election Data Analysis
----
 
 **Lok Sabha 2024 Data Analysis** is a data storytelling project where I explored official election results to uncover **voting patterns, party performance, and key leader comparisons** through **Python-powered analytics and visualizations**.
 
